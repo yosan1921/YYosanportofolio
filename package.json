@@ -1,0 +1,13 @@
+{
+    "name": "yosanportofolio-root",
+    "version": "1.0.0",
+    "description": "Portfolio project root",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "backend": "cd backendportofolio && npm start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
